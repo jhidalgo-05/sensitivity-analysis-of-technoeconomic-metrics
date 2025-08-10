@@ -1,7 +1,6 @@
 # sensitivity-analysis-of-technoeconomic-metrics
 Model-agnostic permutation feature importance to analyze solar PV technoeconomic factors. Focuses on solar performance, economic viability, battery optimization, investment decisions, and policy support to identify key drivers for better PV system design and sustainable energy planning.
 
-Permutation
 The goal of this analysis was to develop predictive models for key output variables related
 to solar energy systems: Levelized Cost of Energy (LCOE), Net Present Value (NPV),
 Energy Yield, and Payback Period. These models supported multiple objectives, including
