@@ -20,4 +20,4 @@ and scikit-learn for modeling and evaluation. The dataset was split into trainin
 testing sets using a 70/30 ratio via train test split, ensuring a substantial portion of
 data was preserved for final model evaluation. During model training, 4-fold cross-validation
 was applied on the training set to improve robustness, reduce overfitting, and provide more
-stable performance estimates
+stable performance estimates.
